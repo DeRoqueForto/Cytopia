@@ -1,0 +1,6 @@
+<map id="Timer::start" name="Timer::start">
+<area shape="rect" id="node2" href="$classTooltip.html#ac48e36748acaf4cdd9838288f7732cc2" title="starts the countdown to when the Tooltip appears starts the timer for the countdown to when the Toolt..." alt="" coords="149,5,285,32"/>
+<area shape="rect" id="node3" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="172,56,263,83"/>
+<area shape="rect" id="node4" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="333,56,456,83"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="504,56,559,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ComboBox::centerTextLabel" name="ComboBox::centerTextLabel">
+<area shape="rect" id="node2" href="$classComboBox.html#a21357bdfab5f30acbcc8bdd4bda79b99" title="Sets the x,y position of this ui element Sets the x,y position of the ui element. ..." alt="" coords="277,5,448,32"/>
+<area shape="rect" id="node3" href="$classComboBox.html#a0c422945ffd5c8d65bc4d61bd092bece" title="ComboBox::addElement" alt="" coords="274,56,451,83"/>
+<area shape="rect" id="node9" href="$classComboBox.html#af0d53d01cb6d97f6dec54647721d125e" title="ComboBox::onMouseButtonUp" alt="" coords="253,107,472,133"/>
+<area shape="rect" id="node4" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="520,49,707,90"/>
+<area shape="rect" id="node5" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="755,56,873,83"/>
+<area shape="rect" id="node6" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="921,56,1012,83"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1060,56,1183,83"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1231,56,1285,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Camera::increaseZoomLevel" name="Camera::increaseZoomLevel">
+<area shape="rect" id="node2" href="$classCamera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="260,100,477,127"/>
+<area shape="rect" id="node4" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="796,61,947,102"/>
+<area shape="rect" id="node6" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="585,181,688,208"/>
+<area shape="rect" id="node3" href="$isoMath_8cxx.html#abef3481b8248d064e79f9d0b2a27cfe7" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="536,5,737,32"/>
+<area shape="rect" id="node5" href="$isoMath_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="525,131,748,157"/>
+</map>

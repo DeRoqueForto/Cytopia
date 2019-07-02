@@ -1,0 +1,3 @@
+<map id="UIElement::drawTextFrame" name="UIElement::drawTextFrame">
+<area shape="rect" id="node2" href="$classTooltip.html#af6075fc45363e3072fd532f7a1bf1376" title="implements draw function. Renders the SDL_Texture generated from the TTF. " alt="" coords="244,5,344,32"/>
+</map>

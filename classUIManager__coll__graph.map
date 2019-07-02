@@ -1,0 +1,4 @@
+<map id="UIManager" name="UIManager">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; UIManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="32,175,213,281"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="63,5,182,112"/>
+</map>

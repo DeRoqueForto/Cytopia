@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="Signal::Lib::ProtoSignal\l\&lt; void(UIElement *sender)\l, Lib::CollectorDefault\&lt;\l typename std::function\&lt; void\l(UIElement *sender) \&gt;::result_type \&gt; \&gt;" alt="" coords="5,5,283,91"/>
+<area shape="rect" id="node2" href="$structSignal_1_1Signal.html" title="Signal::Signal\&lt; void\l(UIElement *sender)\&gt;" alt="" coords="331,27,495,69"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Transition&lt; Model &gt;" name="Transition&lt; Model &gt;">
+<area shape="rect" id="node2" href="$structVariantType.html" title="{VariantType\&lt; typename\l Model::OperationTypes \&gt;\n||}" alt="" coords="5,160,191,252"/>
+<area shape="rect" id="node3" href="$structVariantType.html" title="VariantType::type returns std::variant&lt;All fields inside the TypeList&gt; " alt="" coords="25,5,171,83"/>
+</map>

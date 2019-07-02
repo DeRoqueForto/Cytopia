@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="Signal::Lib::ProtoSignal\l\&lt; void(const std::string\l &amp;), Lib::CollectorDefault\l\&lt; typename std::function\&lt; void\l(const std::string &amp;) \&gt;::result_type \&gt; \&gt;" alt="" coords="5,5,280,91"/>
+<area shape="rect" id="node2" href="$structSignal_1_1Signal.html" title="Signal::Signal\&lt; void\l(const std::string &amp;)\&gt;" alt="" coords="328,27,489,69"/>
+</map>

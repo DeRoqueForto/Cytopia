@@ -1,0 +1,6 @@
+<map id="MapNode::setBitmask" name="MapNode::setBitmask">
+<area shape="rect" id="node2" href="$classMapNode.html#a0951fd739ee0a3e0263ef412596811dd" title="MapNode::updateTexture" alt="" coords="216,78,399,105"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="459,5,634,47"/>
+<area shape="rect" id="node4" href="$classTileManager.html#a519b2d5c91877025a2faa0dff3ba099c" title="TileManager::calculateSlope\lOrientation" alt="" coords="447,71,647,112"/>
+<area shape="rect" id="node5" href="$classTileManager.html#ae1ac0c18d79cc2e1de86416d07d1591b" title="TileManager::calculateTile\lOrientation" alt="" coords="454,136,639,177"/>
+</map>

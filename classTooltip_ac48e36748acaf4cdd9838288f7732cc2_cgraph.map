@@ -1,0 +1,6 @@
+<map id="Tooltip::startTimer" name="Tooltip::startTimer">
+<area shape="rect" id="node2" href="$classUIElement.html#a440d645aa10dbf7d3c763ba6e1fc33a6" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="189,5,356,32"/>
+<area shape="rect" id="node3" href="$classTimer.html#a3a8b5272198d029779dc9302a54305a8" title="Start / Reset the timer Starts or restarts the timer. If the timer is already running, it will be stopped and restarted. " alt="" coords="225,56,321,83"/>
+<area shape="rect" id="node4" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="413,19,602,61"/>
+<area shape="rect" id="node5" href="$classEventManager.html#a6b80b0ed9a39bf7c1978fb6707cacd06" title="EventManager::registerTimer" alt="" coords="404,85,611,112"/>
+</map>

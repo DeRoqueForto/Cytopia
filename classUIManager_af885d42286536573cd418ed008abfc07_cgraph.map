@@ -1,0 +1,4 @@
+<map id="UIManager::setBuildMenuLayout" name="UIManager::setBuildMenuLayout">
+<area shape="rect" id="node2" href="$namespaceutils_1_1strings.html#a1460a4e19b93604e32bb76f8407c4221" title="checks if a string ends with a certain substring " alt="" coords="289,5,455,32"/>
+<area shape="rect" id="node3" href="$namespaceutils_1_1strings.html#ab8a6e07e519cb0ee76d762fe635901c1" title="Erase First Occurrence of given substring from main string. " alt="" coords="281,57,463,98"/>
+</map>

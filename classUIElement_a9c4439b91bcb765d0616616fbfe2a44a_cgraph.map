@@ -1,0 +1,5 @@
+<map id="UIElement::setUIElementID" name="UIElement::setUIElementID">
+<area shape="rect" id="node2" href="$classUIElement.html#a452ffed1ff191ababc8c15d4c455f6c2" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="248,42,423,69"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="477,5,695,47"/>
+<area shape="rect" id="node4" href="$classResourcesManager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="471,71,701,98"/>
+</map>

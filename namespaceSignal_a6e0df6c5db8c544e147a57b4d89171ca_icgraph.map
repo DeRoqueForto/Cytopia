@@ -1,0 +1,11 @@
+<map id="Signal::slot" name="Signal::slot">
+<area shape="rect" id="node2" href="$classSignal_1_1Lib_1_1ProtoSignal_3_01R_07Args_8_8_8_08_00_01Collector_01_4.html#aa2144cea6393df8826b33f00e0245fc7" title="Signal::Lib::ProtoSignal\l\&lt; R(Args...), Collector\l \&gt;::remove_cb" alt="" coords="177,5,345,61"/>
+<area shape="rect" id="node3" href="$classSignal_1_1Lib_1_1ProtoSignal_3_01R_07Args_8_8_8_08_00_01Collector_01_4.html#a01a91ae140023fe2e47d5bcb756ada18" title="Emit a signal, i.e. invoke all its callbacks and collect return types with the Collector. " alt="" coords="177,85,345,141"/>
+<area shape="rect" id="node4" href="$classTooltip.html#a46a4bafd52456186b1fc7f48a554f8ef" title="Tooltip::Tooltip" alt="" coords="206,165,317,192"/>
+<area shape="rect" id="node5" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="145,216,377,243"/>
+<area shape="rect" id="node10" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="168,267,355,309"/>
+<area shape="rect" id="node6" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="425,245,544,272"/>
+<area shape="rect" id="node7" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="592,245,683,272"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="731,245,853,272"/>
+<area shape="rect" id="node9" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="901,245,956,272"/>
+</map>

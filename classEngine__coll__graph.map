@@ -1,0 +1,7 @@
+<map id="Engine" name="Engine">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; Engine \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="5,637,160,744"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="23,285,142,391"/>
+<area shape="rect" id="node4" href="$classMap.html" title="{Map\n|+ mapNodes\l+ mapNodesInDrawingOrder\l&#45; m_columns\l&#45; m_rows\l&#45; m_saveGameVersion\l|+ Map()\l+ Map()\l+ ~Map()\l+ initMap()\l+ increaseHeight()\l+ decreaseHeight()\l+ renderMap()\l+ highlightNode()\l+ unHighlightNode()\l+ findNodeInMap()\l+ setTileIDOfNode()\l+ demolishNode()\l+ refresh()\l+ saveMapToFile()\l+ getNodeInformation()\l+ loadMapFromFile()\l&#45; updateNeighborsOfNode()\l&#45; updateAllNodes()\l&#45; getNeighbors()\l&#45; getElevatedNeighborBitmask()\l&#45; getNeighboringTilesBitmask()\l&#45; getColorOfPixelInSurface()\l&#45; isClickWithinTile()\l}" alt="" coords="184,461,411,920"/>
+<area shape="rect" id="node5" href="$classTerrainGenerator.html" title="{TerrainGenerator\n|&#45; biomeInformation\l|+ TerrainGenerator()\l+ ~TerrainGenerator()\l+ generateTerrain()\l+ loadTerrainDataFromJSON()\l}" alt="" coords="192,277,403,399"/>
+<area shape="rect" id="node6" href="$structTerrainSettings.html" title="{TerrainSettings\n|+ mapSize\l+ seed\l+ seaLevel\l+ treeDensity\l+ mountainAmplitude\l+ waterAmount\l+ coasts\l+ rivers\l+ biomes\l+ advanced\l|}" alt="" coords="216,5,379,215"/>
+</map>

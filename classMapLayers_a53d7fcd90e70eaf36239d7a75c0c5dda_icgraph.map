@@ -1,0 +1,16 @@
+<map id="MapLayers::MapLayers" name="MapLayers::MapLayers">
+<area shape="rect" id="node2" href="$classMapLayers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="221,157,404,184"/>
+<area shape="rect" id="node3" href="$classMapNode.html#aeb5b24dd3643788a9d61035b8c3f0b5f" title="MapNode::getActiveMapNodeData" alt="" coords="452,5,695,32"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a604f1e438222bd6d77a6d59a7b39276a" title="MapNode::demolishNode" alt="" coords="482,56,665,83"/>
+<area shape="rect" id="node5" href="$classMap.html#a4481133402bbf2899f9062c1d4061bef" title="Map::isClickWithinTile" alt="" coords="496,107,651,133"/>
+<area shape="rect" id="node12" href="$classSprite.html#aff433fc35fa9259b5020858cc9749c7c" title="Sprite::render" alt="" coords="518,157,629,184"/>
+<area shape="rect" id="node13" href="$classSprite.html#a87428873289f8ec84f4b75d9162c9d7c" title="Sprite::getActiveClipRect" alt="" coords="484,208,663,235"/>
+<area shape="rect" id="node14" href="$classSprite.html#a7376c698bf914312fbcc7c2b8180cbed" title="Sprite::isLayerUsed" alt="" coords="500,259,647,285"/>
+<area shape="rect" id="node15" href="$classSprite.html#aedfac1c3b8a22c5ae4d97bd9586a6a26" title="Sprite::getActiveDestRect" alt="" coords="481,309,666,336"/>
+<area shape="rect" id="node6" href="$classMap.html#a4619fa631a0082754a92f1d3a8530bba" title="Returns the node at given screencoordinates. " alt="" coords="743,107,895,133"/>
+<area shape="rect" id="node7" href="$isoMath_8hxx.html#ad3c5f070c4a876bc6e8978635d02ce52" title="converts screen space coordinates to isometric space coordinates. To convert screen coordinates in to..." alt="" coords="943,107,1165,133"/>
+<area shape="rect" id="node8" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="1213,107,1416,133"/>
+<area shape="rect" id="node9" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="1464,107,1555,133"/>
+<area shape="rect" id="node10" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1603,107,1725,133"/>
+<area shape="rect" id="node11" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1773,107,1828,133"/>
+</map>

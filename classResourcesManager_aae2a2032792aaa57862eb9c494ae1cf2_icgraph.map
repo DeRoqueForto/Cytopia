@@ -1,0 +1,11 @@
+<map id="ResourcesManager::getUITexture" name="ResourcesManager::getUITexture">
+<area shape="rect" id="node2" href="$classUIElement.html#a452ffed1ff191ababc8c15d4c455f6c2" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="284,81,459,108"/>
+<area shape="rect" id="node3" href="$classUIElement.html#a9c4439b91bcb765d0616616fbfe2a44a" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="525,5,719,32"/>
+<area shape="rect" id="node4" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="785,56,992,83"/>
+<area shape="rect" id="node9" href="$classMenuGroupBuild.html#afe78eacb71e9b5ebe9adaae92c0378cc" title="MenuGroupBuild::constructMenu" alt="" coords="507,107,737,133"/>
+<area shape="rect" id="node10" href="$classGame.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="821,155,957,181"/>
+<area shape="rect" id="node5" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="1040,81,1159,108"/>
+<area shape="rect" id="node6" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="1207,93,1297,120"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1345,123,1468,149"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1516,123,1571,149"/>
+</map>

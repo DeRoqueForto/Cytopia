@@ -1,0 +1,10 @@
+<map id="Camera::centerScreenOnPoint" name="Camera::centerScreenOnPoint">
+<area shape="rect" id="node2" href="$classCamera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Increases the zoom level of the camera Increases the zoom level of the camera. " alt="" coords="273,107,480,133"/>
+<area shape="rect" id="node3" href="$classCamera.html#a1f8ecd427814c5a4970223c2d13b9310" title="Camera::setPinchDistance" alt="" coords="541,56,732,83"/>
+<area shape="rect" id="node8" href="$classCamera.html#aeea39f352d5873495dea6f376cf3207e" title="Decreases the zoom level of the camera Decreases the zoom level of the camera. " alt="" coords="271,5,483,32"/>
+<area shape="rect" id="node9" href="$classCamera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="531,158,743,199"/>
+<area shape="rect" id="node4" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="791,81,993,108"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="1041,109,1132,136"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1180,109,1303,136"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1351,109,1405,136"/>
+</map>

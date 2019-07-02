@@ -1,0 +1,6 @@
+<map id="Camera::centerScreenOnPoint" name="Camera::centerScreenOnPoint">
+<area shape="rect" id="node2" href="$isoMath_8cxx.html#abef3481b8248d064e79f9d0b2a27cfe7" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="281,5,483,32"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="541,61,692,102"/>
+<area shape="rect" id="node4" href="$isoMath_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="271,131,493,157"/>
+<area shape="rect" id="node5" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="331,181,433,208"/>
+</map>

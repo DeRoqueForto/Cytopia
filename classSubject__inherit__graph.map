@@ -1,0 +1,4 @@
+<map id="Subject&lt; DataArgs &gt;" name="Subject&lt; DataArgs &gt;">
+<area shape="rect" id="node2" href="$classSubject.html" title="{Subject\&lt; Transition\l\&lt; Model \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# onObserverExpired()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="15,219,183,384"/>
+<area shape="rect" id="node3" href="$classTransitiveModel.html" title="{TransitiveModel\&lt; Model \&gt;\n|&#45; m_Filters\l|+ subscribe()\l# TransitiveModel()\l&#45; mustNotify()\l&#45; onObserverExpired()\l}" alt="" coords="5,433,192,555"/>
+</map>

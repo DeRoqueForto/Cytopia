@@ -1,0 +1,11 @@
+<map id="Layout::arrangeElements" name="Layout::arrangeElements">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="535,38,686,79"/>
+<area shape="rect" id="node3" href="$classLayout.html#a79480df6d9dd2d32b23468c05c6ac944" title="Calculates height and width of layout groups. " alt="" coords="237,38,449,79"/>
+<area shape="rect" id="node4" href="$classUIManager.html#a0d32c5b63c4110ff8e43ab06c1c7d761" title="Get the Layoutgroup container Returns the container, that holds LayoutGroups. " alt="" coords="499,104,723,131"/>
+<area shape="rect" id="node5" href="$classLayout.html#ac2a5cc72ee1ff5d3ddf4861b3f28d58f" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="236,155,451,181"/>
+<area shape="rect" id="node6" href="$classUIManager.html#acc2fd1de357cb6745ea39d54a93caa27" title="Get the Ui Element By ID Finds and returns an UiElement by its elementID parameter. " alt="" coords="503,155,718,181"/>
+<area shape="rect" id="node7" href="$classUIElement.html#ad448eae9fd22723ca68f04db6a180de7" title="UIElement::getUiElementData" alt="" coords="503,205,718,232"/>
+<area shape="rect" id="node8" href="$classUIElement.html#a63a26f6f553d4e5d6ce3c3050b39453d" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="505,256,716,283"/>
+<area shape="rect" id="node9" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="818,231,997,257"/>
+<area shape="rect" id="node10" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="771,281,1044,308"/>
+</map>

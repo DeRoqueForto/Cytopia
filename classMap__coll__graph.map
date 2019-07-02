@@ -1,0 +1,4 @@
+<map id="Map" name="Map">
+<area shape="rect" id="node2" href="$classTerrainGenerator.html" title="{TerrainGenerator\n|&#45; biomeInformation\l|+ TerrainGenerator()\l+ ~TerrainGenerator()\l+ generateTerrain()\l+ loadTerrainDataFromJSON()\l}" alt="" coords="13,277,224,399"/>
+<area shape="rect" id="node3" href="$structTerrainSettings.html" title="{TerrainSettings\n|+ mapSize\l+ seed\l+ seaLevel\l+ treeDensity\l+ mountainAmplitude\l+ waterAmount\l+ coasts\l+ rivers\l+ biomes\l+ advanced\l|}" alt="" coords="37,5,200,215"/>
+</map>

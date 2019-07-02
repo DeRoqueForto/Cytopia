@@ -1,0 +1,4 @@
+<map id="ResourcesManager" name="ResourcesManager">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; ResourcesManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="13,175,246,281"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="70,5,189,112"/>
+</map>

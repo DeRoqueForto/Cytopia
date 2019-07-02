@@ -1,0 +1,9 @@
+<map id="Camera::setPinchDistance" name="Camera::setPinchDistance">
+<area shape="rect" id="node2" href="$classCamera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="504,152,721,179"/>
+<area shape="rect" id="node7" href="$classCamera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Increases the zoom level of the camera Increases the zoom level of the camera. " alt="" coords="247,51,453,78"/>
+<area shape="rect" id="node8" href="$classCamera.html#aeea39f352d5873495dea6f376cf3207e" title="Decreases the zoom level of the camera Decreases the zoom level of the camera. " alt="" coords="244,102,456,128"/>
+<area shape="rect" id="node3" href="$isoMath_8cxx.html#abef3481b8248d064e79f9d0b2a27cfe7" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="780,227,981,254"/>
+<area shape="rect" id="node4" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1040,106,1191,148"/>
+<area shape="rect" id="node5" href="$isoMath_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="769,176,992,203"/>
+<area shape="rect" id="node6" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="829,51,932,78"/>
+</map>

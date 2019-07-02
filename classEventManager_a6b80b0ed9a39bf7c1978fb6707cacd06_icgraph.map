@@ -1,0 +1,7 @@
+<map id="EventManager::registerTimer" name="EventManager::registerTimer">
+<area shape="rect" id="node2" href="$classTimer.html#a3a8b5272198d029779dc9302a54305a8" title="Start / Reset the timer Starts or restarts the timer. If the timer is already running, it will be stopped and restarted. " alt="" coords="260,31,356,57"/>
+<area shape="rect" id="node3" href="$classTooltip.html#ac48e36748acaf4cdd9838288f7732cc2" title="starts the countdown to when the Tooltip appears starts the timer for the countdown to when the Toolt..." alt="" coords="404,5,540,32"/>
+<area shape="rect" id="node4" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="427,56,517,83"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="588,56,711,83"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="759,56,813,83"/>
+</map>

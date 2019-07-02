@@ -1,0 +1,9 @@
+<map id="TextField::addText" name="TextField::addText">
+<area shape="rect" id="node2" href="$classText.html#a14b9f0937696af5fd95317eb8313bf92" title="sets the text for this text widget. " alt="" coords="241,13,341,39"/>
+<area shape="rect" id="node5" href="$classUIElement.html#a63a26f6f553d4e5d6ce3c3050b39453d" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="185,63,396,90"/>
+<area shape="rect" id="node8" href="$classUIElement.html#a4c86f107c0e436dbeea3a899fc42fa48" title="Sets the x,y position of this ui element Sets the x,y position of the ui element. ..." alt="" coords="207,114,374,141"/>
+<area shape="rect" id="node3" href="$classText.html#a3bf5a064fd37d06b8d3dc5a700556897" title="Draws a text string to the screen Draws a text string to the screen. This could either be a standalon..." alt="" coords="497,13,664,39"/>
+<area shape="rect" id="node4" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="765,5,916,47"/>
+<area shape="rect" id="node6" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="491,63,670,90"/>
+<area shape="rect" id="node7" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="444,114,717,141"/>
+</map>

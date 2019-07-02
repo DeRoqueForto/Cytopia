@@ -1,0 +1,4 @@
+<map id="Timer::setTimer" name="Timer::setTimer">
+<area shape="rect" id="node2" href="$classTimer.html#acbaf9b17b31bdd2dbcbad131f9e93bef" title="Checks if the time is done. Returns true, if the timer has reached 0. " alt="" coords="176,5,315,32"/>
+<area shape="rect" id="node3" href="$classTooltip.html#a46a4bafd52456186b1fc7f48a554f8ef" title="Tooltip::Tooltip" alt="" coords="190,56,301,83"/>
+</map>

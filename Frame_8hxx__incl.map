@@ -1,0 +1,10 @@
+<map id="src/engine/ui/widgets/Frame.hxx" name="src/engine/ui/widgets/Frame.hxx">
+<area shape="rect" id="node2" href="$UIElement_8hxx.html" title="../basics/UIElement.hxx" alt="" coords="359,95,530,121"/>
+<area shape="rect" id="node4" href="$mapEdit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="77,169,247,196"/>
+<area shape="rect" id="node5" href="$ResourcesManager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="282,169,474,196"/>
+<area shape="rect" id="node13" href="$WindowManager_8hxx.html" title="../../WindowManager.hxx" alt="" coords="604,169,779,196"/>
+<area shape="rect" id="node15" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="900,169,1053,196"/>
+<area shape="rect" id="node9" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="299,244,423,271"/>
+<area shape="rect" id="node10" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="414,319,513,345"/>
+<area shape="rect" id="node12" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="621,319,729,345"/>
+</map>

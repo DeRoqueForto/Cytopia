@@ -1,0 +1,6 @@
+<map id="Sprite::render" name="Sprite::render">
+<area shape="rect" id="node2" href="$classMapLayers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="173,31,355,57"/>
+<area shape="rect" id="node5" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="164,82,364,123"/>
+<area shape="rect" id="node3" href="$classMapLayers.html#a53d7fcd90e70eaf36239d7a75c0c5dda" title="MapLayers::MapLayers" alt="" coords="417,5,585,32"/>
+<area shape="rect" id="node4" href="$classMapLayers.html#aa7fa21110e27ec69f131692b0a510d66" title="MapLayers::~MapLayers" alt="" coords="412,56,591,83"/>
+</map>

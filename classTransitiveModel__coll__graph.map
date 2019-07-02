@@ -1,0 +1,4 @@
+<map id="TransitiveModel&lt; Model &gt;" name="TransitiveModel&lt; Model &gt;">
+<area shape="rect" id="node3" href="$classSubject.html" title="{Subject\&lt; Transition\l\&lt; Model \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# onObserverExpired()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="111,219,279,384"/>
+<area shape="rect" id="node4" href="$classSubject.html" title="Allows to notify Observers about events. " alt="" coords="111,5,279,156"/>
+</map>

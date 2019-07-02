@@ -1,0 +1,31 @@
+<map id="UIManager::createBuildMenu" name="UIManager::createBuildMenu">
+<area shape="rect" id="node2" href="$classUIElement.html#ad448eae9fd22723ca68f04db6a180de7" title="UIElement::getUiElementData" alt="" coords="267,5,481,32"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1864,263,2039,305"/>
+<area shape="rect" id="node4" href="$classTileManager.html#a682e1364119e3e5c41e4032fe4e206e1" title="TileManager::getAllTileData" alt="" coords="277,208,471,235"/>
+<area shape="rect" id="node12" href="$classUIElement.html#a452ffed1ff191ababc8c15d4c455f6c2" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="567,427,742,453"/>
+<area shape="rect" id="node14" href="$classButton.html#a6b08fa54560842dec2eabed9a93c3103" title="Button::drawImageButtonFrame" alt="" coords="261,107,487,133"/>
+<area shape="rect" id="node17" href="$classUIElement.html#a440d645aa10dbf7d3c763ba6e1fc33a6" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="291,259,457,285"/>
+<area shape="rect" id="node18" href="$classUIElement.html#a681f08cf2aeee4c376696695227cde9b" title="Set the button mode to toggleButton Set the button mode to toggle button, which means it stays presse..." alt="" coords="275,309,473,336"/>
+<area shape="rect" id="node19" href="$classUIElement.html#ab14a33c04d137514d12e0707d96b3fd3" title="Set the Action ID of the UI Element. Sets the ID of the action the UI Element should execute when it&#39;..." alt="" coords="289,360,459,387"/>
+<area shape="rect" id="node20" href="$classUIElement.html#a902b00b3e651b2a0e33345c3dbd810d4" title="Set the Action Parameter of the UI Element. Sets the Parameter of the action the UI Element should ex..." alt="" coords="263,157,485,184"/>
+<area shape="rect" id="node23" href="$classUIElement.html#a7886562edcbbaaf7a09910c98091d335" title="UIElement::setMenuGroupID" alt="" coords="273,461,475,488"/>
+<area shape="rect" id="node24" href="$classUIElement.html#ad0962bf40e35e59043a344a9a91ccdf2" title="Set the uiElements tooltip text Set the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="283,512,465,539"/>
+<area shape="rect" id="node25" href="$classUIElement.html#a9c4439b91bcb765d0616616fbfe2a44a" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="277,411,471,437"/>
+<area shape="rect" id="node26" href="$namespaceutils_1_1strings.html#a1460a4e19b93604e32bb76f8407c4221" title="checks if a string ends with a certain substring " alt="" coords="572,621,737,648"/>
+<area shape="rect" id="node27" href="$namespaceutils_1_1strings.html#ab8a6e07e519cb0ee76d762fe635901c1" title="Erase First Occurrence of given substring from main string. " alt="" coords="564,690,745,731"/>
+<area shape="rect" id="node28" href="$classUIManager.html#a5c87a391279c342c25d859eb7f3b144d" title="UIManager::addToLayoutGroup" alt="" coords="265,765,483,792"/>
+<area shape="rect" id="node30" href="$classUIManager.html#af885d42286536573cd418ed008abfc07" title="UIManager::setBuildMenuLayout" alt="" coords="260,664,488,691"/>
+<area shape="rect" id="node5" href="$classTileManager.html#a1575d9a9530e13fe0286b8fece9e47ea" title="TileManager::init" alt="" coords="873,288,1000,315"/>
+<area shape="rect" id="node10" href="$classTileManager.html#ac6f5d9eb4db57f9ad597223658574394" title="TileManager::TileManager" alt="" coords="563,309,747,336"/>
+<area shape="rect" id="node11" href="$classTileManager.html#a4ee920ba2d77b9b106151242deb48d4e" title="TileManager::~TileManager" alt="" coords="557,208,752,235"/>
+<area shape="rect" id="node6" href="$classTileManager.html#a7fadfb60a38e76b474996c59672812cf" title="TileManager::addJSONObject\lToTileData" alt="" coords="1100,270,1304,311"/>
+<area shape="rect" id="node7" href="$classResourcesManager.html#a0a56e6316b8145494b7d551c29c41d80" title="ResourcesManager::loadTexture" alt="" coords="1352,277,1576,304"/>
+<area shape="rect" id="node8" href="$classResourcesManager.html#a54721d26f52c4887b735d2cdaf60b078" title="ResourcesManager::create\lSurfaceFromFile" alt="" coords="1624,259,1816,301"/>
+<area shape="rect" id="node9" href="$classResourcesManager.html#ad7712ca96233a151d8bc22cd2ba17d01" title="ResourcesManager::create\lTextureFromSurface" alt="" coords="1624,325,1816,366"/>
+<area shape="rect" id="node13" href="$classResourcesManager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="821,391,1052,417"/>
+<area shape="rect" id="node15" href="$classUIElement.html#af7c295301e56e32f3d00081e081bc71c" title="UIElement::drawFrame" alt="" coords="571,107,738,133"/>
+<area shape="rect" id="node16" href="$classUIElement.html#a93e23ad405b6275a99d5f71d32232f5c" title="Draws a filled rectangle to the screen. Draws a filled rectangle to the screen. " alt="" coords="845,107,1029,133"/>
+<area shape="rect" id="node21" href="$classUIElement.html#ade4162d6216022e143c769369b64add7" title="Set the button state Sets the mouse button pressed state. " alt="" coords="544,157,765,184"/>
+<area shape="rect" id="node22" href="$classUIElement.html#afdf67550d4140097c7a328d4b22fc1fe" title="UIElement::changeTexture" alt="" coords="842,208,1031,235"/>
+<area shape="rect" id="node29" href="$classUIElement.html#a5a18d36a9dfdba437faa612964640d08" title="UIElement::setLayoutGroupName" alt="" coords="536,765,773,792"/>
+</map>

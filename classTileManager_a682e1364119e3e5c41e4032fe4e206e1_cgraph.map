@@ -1,0 +1,10 @@
+<map id="TileManager::getAllTileData" name="TileManager::getAllTileData">
+<area shape="rect" id="node2" href="$classTileManager.html#a1575d9a9530e13fe0286b8fece9e47ea" title="TileManager::init" alt="" coords="491,5,617,32"/>
+<area shape="rect" id="node8" href="$classTileManager.html#ac6f5d9eb4db57f9ad597223658574394" title="TileManager::TileManager" alt="" coords="253,31,437,57"/>
+<area shape="rect" id="node9" href="$classTileManager.html#a4ee920ba2d77b9b106151242deb48d4e" title="TileManager::~TileManager" alt="" coords="248,81,443,108"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1429,19,1580,61"/>
+<area shape="rect" id="node4" href="$classTileManager.html#a7fadfb60a38e76b474996c59672812cf" title="TileManager::addJSONObject\lToTileData" alt="" coords="665,27,869,69"/>
+<area shape="rect" id="node5" href="$classResourcesManager.html#a0a56e6316b8145494b7d551c29c41d80" title="ResourcesManager::loadTexture" alt="" coords="917,85,1141,112"/>
+<area shape="rect" id="node6" href="$classResourcesManager.html#a54721d26f52c4887b735d2cdaf60b078" title="ResourcesManager::create\lSurfaceFromFile" alt="" coords="1189,78,1381,119"/>
+<area shape="rect" id="node7" href="$classResourcesManager.html#ad7712ca96233a151d8bc22cd2ba17d01" title="ResourcesManager::create\lTextureFromSurface" alt="" coords="1189,143,1381,185"/>
+</map>

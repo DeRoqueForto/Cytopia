@@ -1,0 +1,5 @@
+<map id="Settings" name="Settings">
+<area shape="rect" id="node2" href="$structSettingsData.html" title="{SettingsData\n|+ mapSize\l+ screenWidth\l+ screenHeight\l+ currentScreenWidth\l+ currentScreenHeight\l+ maxElevationHeight\l+ vSync\l+ fullScreen\l+ fullScreenMode\l+ musicVolume\land 10 more...\l|}" alt="" coords="5,175,176,399"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="{Singleton\&lt; Settings \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="200,233,365,340"/>
+<area shape="rect" id="node4" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="223,5,342,112"/>
+</map>

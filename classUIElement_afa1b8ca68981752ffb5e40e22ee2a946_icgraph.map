@@ -1,0 +1,6 @@
+<map id="UIElement::drawButtonFrame" name="UIElement::drawButtonFrame">
+<area shape="rect" id="node2" href="$classButton.html#af4d14cf544d8e0620f4ffcd7984103f7" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="277,5,379,32"/>
+<area shape="rect" id="node3" href="$classCheckbox.html#a05078cbd151f1192fc70ad2a7528aade" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="267,56,389,83"/>
+<area shape="rect" id="node4" href="$classComboBox.html#a1e4e851a79fccea5a1bd69b96c3bdec7" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="263,107,393,133"/>
+<area shape="rect" id="node5" href="$classSlider.html#a4a3727f40be79a7cc6543086435b8194" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="280,157,376,184"/>
+</map>

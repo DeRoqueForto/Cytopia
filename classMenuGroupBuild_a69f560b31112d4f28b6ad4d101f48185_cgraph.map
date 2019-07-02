@@ -1,0 +1,5 @@
+<map id="MenuGroupBuild::arrangeElements" name="MenuGroupBuild::arrangeElements">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="323,5,473,47"/>
+<area shape="rect" id="node3" href="$classButtonGroup.html#a96ffd665743b42765e883dd049ec64e7" title="ButtonGroup::getAllButtons" alt="" coords="299,71,497,98"/>
+<area shape="rect" id="node4" href="$classButtonGroup.html#a68feb325c3ba486591ab9e33afd928bb" title="ButtonGroup::count" alt="" coords="324,122,472,149"/>
+</map>

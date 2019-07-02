@@ -1,0 +1,9 @@
+<map id="UIElement::setToggleButton" name="UIElement::setToggleButton">
+<area shape="rect" id="node2" href="$classMenuGroupBuild.html#afe78eacb71e9b5ebe9adaae92c0378cc" title="MenuGroupBuild::constructMenu" alt="" coords="252,5,483,32"/>
+<area shape="rect" id="node3" href="$classCheckbox.html#ad7cc1d2f95f308b0432b2a46af61e6b6" title="Checkbox::Checkbox" alt="" coords="290,56,445,83"/>
+<area shape="rect" id="node4" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="264,107,471,133"/>
+<area shape="rect" id="node5" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="531,107,649,133"/>
+<area shape="rect" id="node6" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="697,107,788,133"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="836,107,959,133"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1007,107,1061,133"/>
+</map>

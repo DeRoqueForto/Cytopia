@@ -1,0 +1,4 @@
+<map id="Text" name="Text">
+<area shape="rect" id="node3" href="$classTooltip.html" title="{Tooltip\n|&#45; m_tooltipTimer\l&#45; m_active\l|+ Tooltip()\l+ ~Tooltip()\l+ draw()\l+ startTimer()\l+ showTooltip()\l+ reset()\l}" alt="" coords="43,681,170,847"/>
+<area shape="rect" id="node2" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="5,5,208,420"/>
+</map>

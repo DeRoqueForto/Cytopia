@@ -1,0 +1,14 @@
+<map id="src/engine/Sprite.cxx" name="src/engine/Sprite.cxx">
+<area shape="rect" id="node2" href="$Sprite_8hxx.html" title="Sprite.hxx" alt="" coords="1079,80,1165,107"/>
+<area shape="rect" id="node8" href="$ResourcesManager_8hxx.html" title="ResourcesManager.hxx" alt="" coords="377,80,545,107"/>
+<area shape="rect" id="node16" href="$WindowManager_8hxx.html" title="WindowManager.hxx" alt="" coords="569,80,720,107"/>
+<area shape="rect" id="node17" href="$Camera_8hxx.html" title="basics/Camera.hxx" alt="" coords="745,80,888,107"/>
+<area shape="rect" id="node18" href="$isoMath_8hxx.html" title="basics/isoMath.hxx" alt="" coords="912,80,1055,107"/>
+<area shape="rect" id="node20" href="$MapLayers_8hxx.html" title="map/MapLayers.hxx" alt="" coords="1220,80,1371,107"/>
+<area shape="rect" id="node21" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="1470,80,1545,107"/>
+<area shape="rect" id="node5" href="$point_8hxx.html" title="basics/point.hxx" alt="" coords="1049,155,1173,181"/>
+<area shape="rect" id="node6" href="$enums_8hxx.html" title="common/enums.hxx" alt="" coords="1249,155,1403,181"/>
+<area shape="rect" id="node11" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="289,155,413,181"/>
+<area shape="rect" id="node13" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="302,229,401,256"/>
+<area shape="rect" id="node15" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="425,229,533,256"/>
+</map>

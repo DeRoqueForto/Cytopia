@@ -1,0 +1,7 @@
+<map id="Timer" name="Timer">
+<area shape="rect" id="node2" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void()\&gt;\n||+ Signal()\l}" alt="" coords="67,620,237,697"/>
+<area shape="rect" id="node3" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(), Lib::CollectorDefault\l\&lt; typename std::function\&lt; void\l() \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="5,320,232,441"/>
+<area shape="rect" id="node4" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="ProtoSignal is the template implementation for callback list. " alt="" coords="122,5,313,97"/>
+<area shape="rect" id="node6" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; SignalSignature, Collector \&gt;\n||}" alt="" coords="206,204,423,296"/>
+<area shape="rect" id="node5" href="$structSignal_1_1Signal.html" title="Signal is a template type providing an interface for arbitrary callback lists. A signal type needs to..." alt="" coords="193,465,421,557"/>
+</map>

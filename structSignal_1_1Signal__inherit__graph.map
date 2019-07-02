@@ -1,0 +1,8 @@
+<map id="Signal::Signal&lt; SignalSignature, Collector &gt;" name="Signal::Signal&lt; SignalSignature, Collector &gt;">
+<area shape="rect" id="node4" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void\l(UIElement *sender)\&gt;\n||+ Signal()\l}" alt="" coords="5,493,169,585"/>
+<area shape="rect" id="node5" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void\l(const std::string &amp;)\&gt;\n||+ Signal()\l}" alt="" coords="225,493,387,585"/>
+<area shape="rect" id="node6" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void\l(const std::string &amp;,\l UIElement *sender)\&gt;\n||+ Signal()\l}" alt="" coords="441,485,603,592"/>
+<area shape="rect" id="node7" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void()\&gt;\n||+ Signal()\l}" alt="" coords="629,500,799,577"/>
+<area shape="rect" id="node2" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; SignalSignature, Collector \&gt;\n||}" alt="" coords="305,175,523,267"/>
+<area shape="rect" id="node3" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="ProtoSignal is the template implementation for callback list. " alt="" coords="319,5,509,97"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSingleton.html" title="Singleton\&lt; UIManager \&gt;" alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node2" href="$classUIManager.html" title="Draws the UI to the screen Parses UiLayout.json file and instantiates UI widgets accordingly. Also takes care of layouting. " alt="" coords="235,5,325,32"/>
+</map>

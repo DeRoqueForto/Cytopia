@@ -1,0 +1,7 @@
+<map id="Tooltip::Tooltip" name="Tooltip::Tooltip">
+<area shape="rect" id="node2" href="$classTimer.html#a0b231ea71c5b402295888cb75dc03af7" title="Register callback function for this timer Register one or more callback functions that should be exec..." alt="" coords="164,5,385,32"/>
+<area shape="rect" id="node3" href="$namespaceSignal.html#a6e0df6c5db8c544e147a57b4d89171ca" title="This function creates a std::function by binding object to the member function pointer method..." alt="" coords="229,56,321,83"/>
+<area shape="rect" id="node4" href="$classTooltip.html#ab7c16dc309b2b97523e842c57b0534eb" title="makes the Tooltip visible makes the Tooltip visible " alt="" coords="203,107,346,133"/>
+<area shape="rect" id="node5" href="$classUIElement.html#a440d645aa10dbf7d3c763ba6e1fc33a6" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="433,132,600,159"/>
+<area shape="rect" id="node6" href="$classTimer.html#a880967eacd324ee909029754c53b17ba" title="Sets a timer Sets a timer. When a timer is set, a signal is emitted and the registered callback funct..." alt="" coords="213,208,336,235"/>
+</map>

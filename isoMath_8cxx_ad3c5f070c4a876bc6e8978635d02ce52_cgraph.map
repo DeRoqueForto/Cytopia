@@ -1,0 +1,11 @@
+<map id="convertScreenToIsoCoordinates" name="convertScreenToIsoCoordinates">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="729,5,883,47"/>
+<area shape="rect" id="node3" href="$classMap.html#a4619fa631a0082754a92f1d3a8530bba" title="Returns the node at given screencoordinates. " alt="" coords="276,71,428,98"/>
+<area shape="rect" id="node4" href="$isoMath_8cxx.html#a0a076d973bc64ffa7859b894793c8000" title="Calculates screen space coordinates to isometric space coordinates. A formula is used to calculate th..." alt="" coords="476,147,651,174"/>
+<area shape="rect" id="node5" href="$classMap.html#a4481133402bbf2899f9062c1d4061bef" title="Map::isClickWithinTile" alt="" coords="486,97,641,123"/>
+<area shape="rect" id="node6" href="$classMapLayers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="715,71,897,98"/>
+<area shape="rect" id="node9" href="$classMap.html#a7a58d0e00e4990a1234a0afb5fd8be4f" title="Map::getColorOfPixelInSurface" alt="" coords="699,122,913,149"/>
+<area shape="rect" id="node10" href="$classResourcesManager.html#ad84710588e607e440931c6956a14aac7" title="ResourcesManager::getTile\lSurface" alt="" coords="709,173,903,215"/>
+<area shape="rect" id="node7" href="$classMapLayers.html#a53d7fcd90e70eaf36239d7a75c0c5dda" title="MapLayers::MapLayers" alt="" coords="967,46,1135,73"/>
+<area shape="rect" id="node8" href="$classMapLayers.html#aa7fa21110e27ec69f131692b0a510d66" title="MapLayers::~MapLayers" alt="" coords="961,97,1140,123"/>
+</map>

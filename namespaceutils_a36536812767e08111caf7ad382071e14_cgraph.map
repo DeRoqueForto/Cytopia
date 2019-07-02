@@ -1,0 +1,5 @@
+<map id="utils::ReverseIterator" name="utils::ReverseIterator">
+<area shape="rect" id="node2" href="$namespaceutils_1_1strings.html#ab8a6e07e519cb0ee76d762fe635901c1" title="Erase First Occurrence of given substring from main string. " alt="" coords="207,5,388,47"/>
+<area shape="rect" id="node3" href="$namespaceutils_1_1strings.html#a1460a4e19b93604e32bb76f8407c4221" title="checks if a string ends with a certain substring " alt="" coords="215,71,380,98"/>
+<area shape="rect" id="node4" href="$namespaceutils_1_1strings.html#afa781708d9b82cab99d894cf7728ddf1" title="checks if a string starts with a certain substring " alt="" coords="212,122,383,149"/>
+</map>

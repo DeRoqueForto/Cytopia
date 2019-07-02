@@ -1,0 +1,5 @@
+<map id="Button::setCheckState" name="Button::setCheckState">
+<area shape="rect" id="node2" href="$classUIElement.html#ade4162d6216022e143c769369b64add7" title="Set the button state Sets the mouse button pressed state. " alt="" coords="220,35,441,61"/>
+<area shape="rect" id="node3" href="$classUIElement.html#afdf67550d4140097c7a328d4b22fc1fe" title="UIElement::changeTexture" alt="" coords="504,5,693,32"/>
+<area shape="rect" id="node4" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="489,57,708,98"/>
+</map>

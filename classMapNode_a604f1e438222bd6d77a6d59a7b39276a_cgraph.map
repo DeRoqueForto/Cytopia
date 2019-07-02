@@ -1,0 +1,9 @@
+<map id="MapNode::demolishNode" name="MapNode::demolishNode">
+<area shape="rect" id="node2" href="$classMapLayers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="236,56,419,83"/>
+<area shape="rect" id="node5" href="$classMapNode.html#a0951fd739ee0a3e0263ef412596811dd" title="MapNode::updateTexture" alt="" coords="236,149,419,176"/>
+<area shape="rect" id="node3" href="$classMapLayers.html#a53d7fcd90e70eaf36239d7a75c0c5dda" title="MapLayers::MapLayers" alt="" coords="483,5,651,32"/>
+<area shape="rect" id="node4" href="$classMapLayers.html#aa7fa21110e27ec69f131692b0a510d66" title="MapLayers::~MapLayers" alt="" coords="477,56,656,83"/>
+<area shape="rect" id="node6" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="479,107,654,149"/>
+<area shape="rect" id="node7" href="$classTileManager.html#a519b2d5c91877025a2faa0dff3ba099c" title="TileManager::calculateSlope\lOrientation" alt="" coords="467,173,667,214"/>
+<area shape="rect" id="node8" href="$classTileManager.html#ae1ac0c18d79cc2e1de86416d07d1591b" title="TileManager::calculateTile\lOrientation" alt="" coords="474,238,659,279"/>
+</map>

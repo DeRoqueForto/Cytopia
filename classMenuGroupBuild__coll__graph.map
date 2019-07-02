@@ -1,0 +1,6 @@
+<map id="MenuGroupBuild" name="MenuGroupBuild">
+<area shape="rect" id="node2" href="$classIMenuGroup.html" title="Interface Class for Menu Groups Menu Groups can hold UiElements and format them in a special way..." alt="" coords="5,740,199,861"/>
+<area shape="rect" id="node3" href="$classButtonGroup.html" title="Class to group buttons and to make sure there&#39;s only one active toggle button in the group When addin..." alt="" coords="11,468,193,677"/>
+<area shape="rect" id="node4" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="118,5,321,405"/>
+<area shape="rect" id="node5" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ elementID\l+ text\l+ tooltipText\l+ actionID\l+ actionParameter\l+ textureID\l+ buildMenuID\l+ layoutGroupName\l+ isToggleButton\l|}" alt="" coords="217,475,397,670"/>
+</map>

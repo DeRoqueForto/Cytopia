@@ -1,0 +1,7 @@
+<map id="UIElement::setTooltipText" name="UIElement::setTooltipText">
+<area shape="rect" id="node2" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="235,5,441,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="489,5,608,32"/>
+<area shape="rect" id="node4" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="656,5,747,32"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="795,5,917,32"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="965,5,1020,32"/>
+</map>

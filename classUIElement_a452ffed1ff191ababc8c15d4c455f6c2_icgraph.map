@@ -1,0 +1,10 @@
+<map id="UIElement::setTextureID" name="UIElement::setTextureID">
+<area shape="rect" id="node2" href="$classUIElement.html#a9c4439b91bcb765d0616616fbfe2a44a" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="246,5,441,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="507,56,713,83"/>
+<area shape="rect" id="node8" href="$classMenuGroupBuild.html#afe78eacb71e9b5ebe9adaae92c0378cc" title="MenuGroupBuild::constructMenu" alt="" coords="228,107,459,133"/>
+<area shape="rect" id="node9" href="$classGame.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="542,155,678,181"/>
+<area shape="rect" id="node4" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="761,81,880,108"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="928,93,1019,120"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1067,123,1189,149"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1237,123,1292,149"/>
+</map>

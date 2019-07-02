@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structSignal_1_1Lib_1_1CollectorLast.html" title="CollectorLast returns the result of the last signal handler from a signal emission. " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$structSignal_1_1Lib_1_1CollectorDefault.html" title="CollectorDefault implements the default signal handler collection behaviour. " alt="" coords="232,5,429,47"/>
+</map>

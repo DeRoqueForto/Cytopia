@@ -1,0 +1,6 @@
+<map id="UIManager::getAllUiElementsForEventHandling" name="UIManager::getAllUiElementsForEventHandling">
+<area shape="rect" id="node2" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="261,13,464,39"/>
+<area shape="rect" id="node3" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="512,13,603,39"/>
+<area shape="rect" id="node4" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="651,13,773,39"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="821,13,876,39"/>
+</map>

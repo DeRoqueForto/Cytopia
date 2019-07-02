@@ -1,0 +1,5 @@
+<map id="Slider::onMouseButtonDown" name="Slider::onMouseButtonDown">
+<area shape="rect" id="node2" href="$classSlider.html#a8733bd6dbaced97a10f28e2f03d6b0d0" title="Checks if the mouses is over the line part of the slider checks if the mouse is over the sliderLine..." alt="" coords="265,5,421,32"/>
+<area shape="rect" id="node3" href="$classSlider.html#a1267136202d18a8a0bbb096b3d2e0360" title="finds the slider&#39;s value based on where the button is on the line uses the button&#39;s coordinates to ca..." alt="" coords="281,56,404,83"/>
+<area shape="rect" id="node4" href="$classSlider.html#ae9844f0d5c0f1d5fcb4f3a1b52120f51" title="Checks if the mouse is over the button of the slider checks if the mouse is over the sliderButton..." alt="" coords="256,107,429,133"/>
+</map>

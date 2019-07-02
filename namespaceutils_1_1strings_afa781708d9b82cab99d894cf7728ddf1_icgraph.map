@@ -1,0 +1,8 @@
+<map id="utils::strings::startsWith" name="utils::strings::startsWith">
+<area shape="rect" id="node2" href="$namespaceutils.html#a36536812767e08111caf7ad382071e14" title="Helper function for Reverse template because c++11 does not support template deduction. " alt="" coords="241,5,394,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="224,57,411,98"/>
+<area shape="rect" id="node4" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="459,64,577,91"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="625,64,716,91"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="764,64,887,91"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="935,64,989,91"/>
+</map>

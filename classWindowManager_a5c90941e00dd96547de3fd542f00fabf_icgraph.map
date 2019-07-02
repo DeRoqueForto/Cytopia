@@ -1,0 +1,9 @@
+<map id="WindowManager::setFullScreenMode" name="WindowManager::setFullScreenMode">
+<area shape="rect" id="node2" href="$classUIManager.html#af2ffb4ee45e57152164643ef6cddda37" title="UIManager::changeFullScreenMode" alt="" coords="307,13,553,39"/>
+<area shape="rect" id="node8" href="$classWindowManager.html#a3a283b34c19aaa20296befaabad4d29b" title="WindowManager::WindowManager" alt="" coords="312,63,548,90"/>
+<area shape="rect" id="node3" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="601,5,788,47"/>
+<area shape="rect" id="node4" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="836,13,955,39"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="1003,13,1093,39"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1141,13,1264,39"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1312,13,1367,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UIElement::setActionParameter" name="UIElement::setActionParameter">
+<area shape="rect" id="node2" href="$classUIElement.html#ade4162d6216022e143c769369b64add7" title="Set the button state Sets the mouse button pressed state. " alt="" coords="276,35,497,61"/>
+<area shape="rect" id="node3" href="$classUIElement.html#afdf67550d4140097c7a328d4b22fc1fe" title="UIElement::changeTexture" alt="" coords="560,5,749,32"/>
+<area shape="rect" id="node4" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="545,57,764,98"/>
+</map>

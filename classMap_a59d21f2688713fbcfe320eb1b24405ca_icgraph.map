@@ -1,0 +1,24 @@
+<map id="Map::updateNeighborsOfNode" name="Map::updateNeighborsOfNode">
+<area shape="rect" id="node2" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="477,5,631,32"/>
+<area shape="rect" id="node8" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="475,124,633,151"/>
+<area shape="rect" id="node10" href="$classMap.html#a481b37ba71ef0e51e836fc42805762dd" title="Update all mapNodes Updates all mapNode and its adjacent tiles regarding height information, draws slopes for adjacent tiles and sets tiling for mapNode sprite if applicable. " alt="" coords="268,255,427,281"/>
+<area shape="rect" id="node20" href="$classMap.html#ad4c2c2f80eab02ca32a748a62a56da12" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="268,191,427,217"/>
+<area shape="rect" id="node22" href="$classMap.html#a05e7d896dc5062af07c9b838600a068d" title="Demolish a node Invokes the tiles demolish function. " alt="" coords="273,65,422,92"/>
+<area shape="rect" id="node3" href="$classEngine.html#aa7210df73b284c19cd6edcfa99a4532e" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="904,13,1073,40"/>
+<area shape="rect" id="node4" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="1359,141,1561,168"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="1791,344,1881,371"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1929,293,2052,320"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2100,293,2155,320"/>
+<area shape="rect" id="node9" href="$classEngine.html#a3e87fa5bbc0de7cde5fe6092ddf21a37" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="681,121,856,148"/>
+<area shape="rect" id="node11" href="$classMap.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="503,305,605,332"/>
+<area shape="rect" id="node17" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="687,268,850,295"/>
+<area shape="rect" id="node12" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="920,420,1057,447"/>
+<area shape="rect" id="node13" href="$classEngine.html#af7de8d74b0cfacaf06df53e7caf11538" title="Engine::saveGame" alt="" coords="1137,420,1280,447"/>
+<area shape="rect" id="node14" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="1344,369,1576,396"/>
+<area shape="rect" id="node16" href="$classGame.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="1392,268,1528,295"/>
+<area shape="rect" id="node15" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="1624,369,1743,396"/>
+<area shape="rect" id="node18" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="919,268,1058,295"/>
+<area shape="rect" id="node19" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="1141,217,1277,244"/>
+<area shape="rect" id="node21" href="$classEngine.html#a89f23eaccc126a355d287e1959b4556f" title="Engine::setTileIDOfNode" alt="" coords="1121,167,1296,193"/>
+<area shape="rect" id="node23" href="$classEngine.html#a2824c5146c900c0d048d97c5e0e0ef69" title="Engine::demolishNode" alt="" coords="686,65,851,92"/>
+</map>

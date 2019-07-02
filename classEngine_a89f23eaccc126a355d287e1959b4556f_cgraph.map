@@ -1,0 +1,11 @@
+<map id="Engine::setTileIDOfNode" name="Engine::setTileIDOfNode">
+<area shape="rect" id="node2" href="$classMap.html#ad4c2c2f80eab02ca32a748a62a56da12" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="228,205,387,232"/>
+<area shape="rect" id="node3" href="$classMap.html#a59d21f2688713fbcfe320eb1b24405ca" title="Update mapNode and its adjacent tiles Updates mapNode height information, draws slopes for adjacent t..." alt="" coords="435,205,649,232"/>
+<area shape="rect" id="node4" href="$classMap.html#a63f0e5040c86652c7239475f8ff3a45a" title="Get neighbor MapNode Objects Stores pointers to the neighboring nodes of the given coordinates in the..." alt="" coords="721,5,864,32"/>
+<area shape="rect" id="node5" href="$classMap.html#a0ff55eb041cdf29aa582a21145319ce0" title="Get elevated neighbor positions in a bitmask Checks all neighboring tiles and returns the elevated ne..." alt="" coords="697,57,888,98"/>
+<area shape="rect" id="node6" href="$classMap.html#a05e7d896dc5062af07c9b838600a068d" title="Demolish a node Invokes the tiles demolish function. " alt="" coords="937,196,1086,223"/>
+<area shape="rect" id="node7" href="$classMap.html#a392940f84796653b8e811ed8dc296c84" title="Get a bitmask that represents same&#45;tile neighbors Checks all neighboring tiles and returns the elevat..." alt="" coords="701,198,884,239"/>
+<area shape="rect" id="node8" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="716,315,869,341"/>
+<area shape="rect" id="node10" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="713,264,872,291"/>
+<area shape="rect" id="node9" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="936,307,1087,349"/>
+</map>

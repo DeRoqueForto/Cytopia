@@ -1,0 +1,8 @@
+<map id="Button::centerTextLabel" name="Button::centerTextLabel">
+<area shape="rect" id="node2" href="$classButton.html#aca8bc669addb66b461b69ee5000186da" title="Button::Button" alt="" coords="240,5,356,32"/>
+<area shape="rect" id="node3" href="$classButton.html#ac6a233c876164a52d54ef7f1b3fb78d1" title="Sets the button&#39;s text sets the button&#39;s text to the string passed as an argument. " alt="" coords="239,56,357,83"/>
+<area shape="rect" id="node7" href="$classButton.html#a5cb5a9c1bf8659fa775f34a28262bd75" title="Sets the x,y position of this ui element Sets the x,y position of the ui element. ..." alt="" coords="227,107,369,133"/>
+<area shape="rect" id="node4" href="$classGame.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="417,56,553,83"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="601,56,724,83"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="772,56,827,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Signal::Lib::ProtoSignal&lt; typename, typename &gt;" name="Signal::Lib::ProtoSignal&lt; typename, typename &gt;">
+<area shape="rect" id="node2" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(const std::string\l &amp;, UIElement *sender), Lib\l::CollectorDefault\&lt; typename\l std::function\&lt; void(const std\l::string &amp;, UIElement *sender)\l \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="5,393,220,559"/>
+<area shape="rect" id="node4" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(const std::string\l &amp;), Lib::CollectorDefault\l\&lt; typename std::function\&lt; void\l(const std::string &amp;) \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="227,408,502,544"/>
+<area shape="rect" id="node6" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; SignalSignature, Collector \&gt;\n||}" alt="" coords="441,263,659,355"/>
+<area shape="rect" id="node10" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(), Lib::CollectorDefault\l\&lt; typename std::function\&lt; void\l() \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="909,248,1135,369"/>
+<area shape="rect" id="node11" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(UIElement *sender)\l, Lib::CollectorDefault\&lt;\l typename std::function\&lt; void\l(UIElement *sender) \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="698,583,975,719"/>
+<area shape="rect" id="node3" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void\l(const std::string &amp;,\l UIElement *sender)\&gt;\n||+ Signal()\l}" alt="" coords="111,796,274,903"/>
+<area shape="rect" id="node5" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void\l(const std::string &amp;)\&gt;\n||+ Signal()\l}" alt="" coords="331,803,492,895"/>
+<area shape="rect" id="node7" href="$structSignal_1_1Signal.html" title="Signal is a template type providing an interface for arbitrary callback lists. A signal type needs to..." alt="" coords="436,605,664,697"/>
+<area shape="rect" id="node8" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void\l(UIElement *sender)\&gt;\n||+ Signal()\l}" alt="" coords="625,803,789,895"/>
+<area shape="rect" id="node9" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void()\&gt;\n||+ Signal()\l}" alt="" coords="862,811,1033,888"/>
+</map>

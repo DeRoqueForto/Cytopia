@@ -1,0 +1,35 @@
+<map id="src/engine/EventManager.cxx" name="src/engine/EventManager.cxx">
+<area shape="rect" id="node2" href="$EventManager_8hxx.html" title="EventManager.hxx" alt="" coords="1305,80,1443,107"/>
+<area shape="rect" id="node12" href="$Map_8hxx.html" title="Map.hxx" alt="" coords="2047,304,2122,331"/>
+<area shape="rect" id="node17" href="$enums_8hxx.html" title="common/enums.hxx" alt="" coords="3101,603,3255,629"/>
+<area shape="rect" id="node27" href="$mapEdit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="5,528,175,555"/>
+<area shape="rect" id="node44" href="$Camera_8hxx.html" title="basics/Camera.hxx" alt="" coords="2883,528,3025,555"/>
+<area shape="rect" id="node45" href="$isoMath_8hxx.html" title="basics/isoMath.hxx" alt="" coords="2491,528,2633,555"/>
+<area shape="rect" id="node46" href="$Settings_8hxx.html" title="basics/Settings.hxx" alt="" coords="141,603,287,629"/>
+<area shape="rect" id="node47" href="$MapLayers_8hxx.html" title="map/MapLayers.hxx" alt="" coords="3203,80,3353,107"/>
+<area shape="rect" id="node48" href="$LOG_8hxx.html" title="basics/LOG.hxx" alt="" coords="2127,453,2245,480"/>
+<area shape="rect" id="node5" href="$Engine_8hxx.html" title="Engine.hxx" alt="" coords="1715,229,1806,256"/>
+<area shape="rect" id="node10" href="$Singleton_8hxx.html" title="../util/Singleton.hxx" alt="" coords="569,677,712,704"/>
+<area shape="rect" id="node25" href="$UIManager_8hxx.html" title="UIManager.hxx" alt="" coords="1129,155,1245,181"/>
+<area shape="rect" id="node6" href="$WindowManager_8hxx.html" title="WindowManager.hxx" alt="" coords="1288,528,1439,555"/>
+<area shape="rect" id="node11" href="$point_8hxx.html" title="basics/point.hxx" alt="" coords="2732,603,2856,629"/>
+<area shape="rect" id="node13" href="$MapNode_8hxx.html" title="GameObjects/MapNode.hxx" alt="" coords="2302,453,2502,480"/>
+<area shape="rect" id="node23" href="$TerrainGenerator_8hxx.html" title="map/TerrainGenerator.hxx" alt="" coords="1991,379,2178,405"/>
+<area shape="rect" id="node16" href="$Sprite_8hxx.html" title="../Sprite.hxx" alt="" coords="2658,528,2757,555"/>
+<area shape="rect" id="node19" href="$TileManager_8hxx.html" title="../TileManager.hxx" alt="" coords="1033,603,1169,629"/>
+<area shape="rect" id="node21" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="1067,677,1166,704"/>
+<area shape="rect" id="node26" href="$UIElement_8hxx.html" title="ui/basics/UIElement.hxx" alt="" coords="823,453,997,480"/>
+<area shape="rect" id="node31" href="$Layout_8hxx.html" title="ui/basics/Layout.hxx" alt="" coords="1328,379,1479,405"/>
+<area shape="rect" id="node32" href="$ButtonGroup_8hxx.html" title="ui/basics/ButtonGroup.hxx" alt="" coords="1159,229,1349,256"/>
+<area shape="rect" id="node33" href="$Button_8hxx.html" title="../widgets/Button.hxx" alt="" coords="1045,304,1199,331"/>
+<area shape="rect" id="node34" href="$Text_8hxx.html" title="Text.hxx" alt="" coords="896,379,969,405"/>
+<area shape="rect" id="node35" href="$Checkbox_8hxx.html" title="ui/widgets/Checkbox.hxx" alt="" coords="616,304,793,331"/>
+<area shape="rect" id="node36" href="$Combobox_8hxx.html" title="ui/widgets/Combobox.hxx" alt="" coords="529,229,713,256"/>
+<area shape="rect" id="node37" href="$TextField_8hxx.html" title="TextField.hxx" alt="" coords="818,304,919,331"/>
+<area shape="rect" id="node38" href="$Frame_8hxx.html" title="ui/widgets/Frame.hxx" alt="" coords="930,229,1085,256"/>
+<area shape="rect" id="node39" href="$Tooltip_8hxx.html" title="ui/widgets/Tooltip.hxx" alt="" coords="1325,304,1479,331"/>
+<area shape="rect" id="node43" href="$Slider_8hxx.html" title="ui/widgets/Slider.hxx" alt="" coords="291,379,441,405"/>
+<area shape="rect" id="node28" href="$ResourcesManager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="791,528,983,555"/>
+<area shape="rect" id="node29" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="1059,528,1212,555"/>
+<area shape="rect" id="node40" href="$Timer_8hxx.html" title="../../basics/Timer.hxx" alt="" coords="1379,453,1529,480"/>
+</map>

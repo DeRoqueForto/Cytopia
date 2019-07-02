@@ -1,0 +1,7 @@
+<map id="ComboBox::onMouseMove" name="ComboBox::onMouseMove">
+<area shape="rect" id="node2" href="$classComboBox.html#a0d22df3316d734401c6a60f14f186134" title="ComboBox::checkBoundaries" alt="" coords="251,5,461,32"/>
+<area shape="rect" id="node3" href="$classUIElement.html#a98725ac250168ebb2fa676dd481ff495" title="Get the button state Get the current mouse button pressed state. " alt="" coords="259,56,453,83"/>
+<area shape="rect" id="node4" href="$classUIElement.html#ade4162d6216022e143c769369b64add7" title="Set the button state Sets the mouse button pressed state. " alt="" coords="245,107,467,133"/>
+<area shape="rect" id="node5" href="$classUIElement.html#afdf67550d4140097c7a328d4b22fc1fe" title="UIElement::changeTexture" alt="" coords="529,77,719,104"/>
+<area shape="rect" id="node6" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="515,129,733,170"/>
+</map>

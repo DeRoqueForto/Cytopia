@@ -1,0 +1,7 @@
+<map id="TileManager::calculateTileOrientation" name="TileManager::calculateTileOrientation">
+<area shape="rect" id="node2" href="$classMapNode.html#a0951fd739ee0a3e0263ef412596811dd" title="MapNode::updateTexture" alt="" coords="239,51,421,78"/>
+<area shape="rect" id="node3" href="$classMapNode.html#ac2fd11448837a8b56a58601238e824b2" title="MapNode::MapNode" alt="" coords="700,26,852,53"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a56edbdd0e77eeeb82db4d5884c96048b" title="MapNode::setBitmask" alt="" coords="479,26,642,53"/>
+<area shape="rect" id="node5" href="$classMapNode.html#a397a62e9263feef6c9c85b4e17ef31cb" title="MapNode::setTileID" alt="" coords="488,77,633,103"/>
+<area shape="rect" id="node6" href="$classMapNode.html#a604f1e438222bd6d77a6d59a7b39276a" title="MapNode::demolishNode" alt="" coords="469,127,652,154"/>
+</map>

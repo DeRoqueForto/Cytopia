@@ -1,0 +1,9 @@
+<map id="EventManager" name="EventManager">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; EventManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="5,305,209,412"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="127,5,245,112"/>
+<area shape="rect" id="node5" href="$classSingleton.html" title="{Singleton\&lt; UIManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="173,175,354,281"/>
+<area shape="rect" id="node4" href="$classUIManager.html" title="Draws the UI to the screen Parses UiLayout.json file and instantiates UI widgets accordingly. Also takes care of layouting. " alt="" coords="146,436,381,895"/>
+<area shape="rect" id="node6" href="$structPoint.html" title="{Point\n|+ x\l+ y\l+ z\l+ height\l|}" alt="" coords="405,605,482,726"/>
+<area shape="rect" id="node7" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="683,465,886,865"/>
+<area shape="rect" id="node8" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ elementID\l+ text\l+ tooltipText\l+ actionID\l+ actionParameter\l+ textureID\l+ buildMenuID\l+ layoutGroupName\l+ isToggleButton\l|}" alt="" coords="739,987,919,1181"/>
+</map>

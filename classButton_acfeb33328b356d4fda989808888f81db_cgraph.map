@@ -1,0 +1,8 @@
+<map id="Button::onMouseButtonUp" name="Button::onMouseButtonUp">
+<area shape="rect" id="node2" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="253,5,432,32"/>
+<area shape="rect" id="node3" href="$classUIElement.html#ade4162d6216022e143c769369b64add7" title="Set the button state Sets the mouse button pressed state. " alt="" coords="488,107,709,133"/>
+<area shape="rect" id="node6" href="$classUIElement.html#a98725ac250168ebb2fa676dd481ff495" title="Get the button state Get the current mouse button pressed state. " alt="" coords="245,107,440,133"/>
+<area shape="rect" id="node7" href="$classButton.html#a25f11ea415fdbb64cb897421bf746918" title="Button::setCheckState" alt="" coords="259,157,426,184"/>
+<area shape="rect" id="node4" href="$classUIElement.html#afdf67550d4140097c7a328d4b22fc1fe" title="UIElement::changeTexture" alt="" coords="772,77,961,104"/>
+<area shape="rect" id="node5" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="757,129,976,170"/>
+</map>

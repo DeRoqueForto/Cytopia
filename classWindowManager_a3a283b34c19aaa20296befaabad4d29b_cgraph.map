@@ -1,0 +1,5 @@
+<map id="WindowManager::WindowManager" name="WindowManager::WindowManager">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="591,28,741,69"/>
+<area shape="rect" id="node3" href="$classWindowManager.html#a5ad60806695b35cb347de8cab4ac93ab" title="WindowManager::initialize\lScreenResolutions" alt="" coords="324,28,508,69"/>
+<area shape="rect" id="node4" href="$classWindowManager.html#a5c90941e00dd96547de3fd542f00fabf" title="WindowManager::setFullScreenMode" alt="" coords="289,94,543,121"/>
+</map>

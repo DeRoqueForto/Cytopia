@@ -1,0 +1,4 @@
+<map id="Text" name="Text">
+<area shape="rect" id="node2" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="83,5,286,405"/>
+<area shape="rect" id="node3" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ elementID\l+ text\l+ tooltipText\l+ actionID\l+ actionParameter\l+ textureID\l+ buildMenuID\l+ layoutGroupName\l+ isToggleButton\l|}" alt="" coords="183,468,363,663"/>
+</map>

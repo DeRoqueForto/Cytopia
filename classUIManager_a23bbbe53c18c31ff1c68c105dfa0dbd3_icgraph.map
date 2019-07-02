@@ -1,0 +1,8 @@
+<map id="UIManager::toggleGroupVisibility" name="UIManager::toggleGroupVisibility">
+<area shape="rect" id="node2" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="563,5,765,32"/>
+<area shape="rect" id="node6" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="283,56,515,83"/>
+<area shape="rect" id="node3" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="813,31,904,57"/>
+<area shape="rect" id="node4" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="952,31,1075,57"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1123,31,1177,57"/>
+<area shape="rect" id="node7" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="605,56,723,83"/>
+</map>

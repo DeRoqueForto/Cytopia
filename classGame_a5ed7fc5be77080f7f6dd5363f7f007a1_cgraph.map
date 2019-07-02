@@ -1,0 +1,36 @@
+<map id="Game::mainMenu" name="Game::mainMenu">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1911,115,2061,156"/>
+<area shape="rect" id="node3" href="$classUIElement.html#a452ffed1ff191ababc8c15d4c455f6c2" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="207,399,382,426"/>
+<area shape="rect" id="node5" href="$classUIElement.html#a440d645aa10dbf7d3c763ba6e1fc33a6" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="211,197,378,223"/>
+<area shape="rect" id="node6" href="$classUIElement.html#a4c86f107c0e436dbeea3a899fc42fa48" title="Sets the x,y position of this ui element Sets the x,y position of the ui element. ..." alt="" coords="211,247,378,274"/>
+<area shape="rect" id="node7" href="$classUIElement.html#a63a26f6f553d4e5d6ce3c3050b39453d" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="189,298,400,325"/>
+<area shape="rect" id="node9" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="448,298,721,325"/>
+<area shape="rect" id="node10" href="$classText.html#a14b9f0937696af5fd95317eb8313bf92" title="sets the text for this text widget. " alt="" coords="801,47,901,74"/>
+<area shape="rect" id="node12" href="$classButton.html#ac6a233c876164a52d54ef7f1b3fb78d1" title="Sets the button&#39;s text sets the button&#39;s text to the string passed as an argument. " alt="" coords="235,501,354,527"/>
+<area shape="rect" id="node14" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="782,450,919,477"/>
+<area shape="rect" id="node27" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="515,581,654,607"/>
+<area shape="rect" id="node31" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="227,551,363,578"/>
+<area shape="rect" id="node32" href="$classImage.html#aea00862523c7a5c9551655f2660d91a8" title="sets the opacity of the image " alt="" coords="225,653,364,679"/>
+<area shape="rect" id="node33" href="$classUIElement.html#a43b9f5f4be71c672ca8ed528fce1dfc5" title="UIElement::onMouseLeave" alt="" coords="199,703,391,730"/>
+<area shape="rect" id="node34" href="$classUIElement.html#a8e089719777f393d720e3cb1708f8070" title="UIElement::onMouseMove" alt="" coords="201,754,389,781"/>
+<area shape="rect" id="node35" href="$classUIElement.html#aaf7e8be5b7a5668c0b8aab27d01d6a30" title="UIElement::onMouseEnter" alt="" coords="201,805,389,831"/>
+<area shape="rect" id="node4" href="$classResourcesManager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="469,349,700,375"/>
+<area shape="rect" id="node8" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="495,247,674,274"/>
+<area shape="rect" id="node11" href="$classText.html#a3bf5a064fd37d06b8d3dc5a700556897" title="Draws a text string to the screen Draws a text string to the screen. This could either be a standalon..." alt="" coords="1684,47,1851,74"/>
+<area shape="rect" id="node13" href="$classButton.html#a6f662503946446d0e28b3d05f175fd1a" title="Button::centerTextLabel" alt="" coords="498,501,671,527"/>
+<area shape="rect" id="node15" href="$classMap.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="998,509,1101,535"/>
+<area shape="rect" id="node16" href="$classMapLayers.html#a54ce1eeef2a8998a728ac7074efe8787" title="Enable Drawing Layer Enable Drawing Layer (use bitwise OR to add layer) " alt="" coords="1175,567,1353,594"/>
+<area shape="rect" id="node17" href="$classTerrainGenerator.html#adcc251757a1f3a06471a49f17886b8ce" title="TerrainGenerator::generate\lTerrain" alt="" coords="1167,501,1361,543"/>
+<area shape="rect" id="node19" href="$classMap.html#a481b37ba71ef0e51e836fc42805762dd" title="Update all mapNodes Updates all mapNode and its adjacent tiles regarding height information, draws slopes for adjacent tiles and sets tiling for mapNode sprite if applicable. " alt="" coords="1185,618,1343,645"/>
+<area shape="rect" id="node18" href="$classTerrainGenerator.html#ac94cfaeb9dc89453018399361da5174a" title="TerrainGenerator::loadTerrain\lDataFromJSON" alt="" coords="1413,501,1620,543"/>
+<area shape="rect" id="node20" href="$classMap.html#a59d21f2688713fbcfe320eb1b24405ca" title="Update mapNode and its adjacent tiles Updates mapNode height information, draws slopes for adjacent t..." alt="" coords="1409,618,1624,645"/>
+<area shape="rect" id="node21" href="$classMap.html#a63f0e5040c86652c7239475f8ff3a45a" title="Get neighbor MapNode Objects Stores pointers to the neighboring nodes of the given coordinates in the..." alt="" coords="1696,743,1839,770"/>
+<area shape="rect" id="node22" href="$classMap.html#a0ff55eb041cdf29aa582a21145319ce0" title="Get elevated neighbor positions in a bitmask Checks all neighboring tiles and returns the elevated ne..." alt="" coords="1672,795,1863,836"/>
+<area shape="rect" id="node23" href="$classMap.html#a05e7d896dc5062af07c9b838600a068d" title="Demolish a node Invokes the tiles demolish function. " alt="" coords="1911,649,2061,675"/>
+<area shape="rect" id="node24" href="$classMap.html#a392940f84796653b8e811ed8dc296c84" title="Get a bitmask that represents same&#45;tile neighbors Checks all neighboring tiles and returns the elevat..." alt="" coords="1676,552,1859,593"/>
+<area shape="rect" id="node25" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="1691,501,1844,527"/>
+<area shape="rect" id="node26" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="1688,618,1847,645"/>
+<area shape="rect" id="node28" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="769,581,932,607"/>
+<area shape="rect" id="node29" href="$compression_8hxx.html#a25f341059256700f2f3ffd62d8113956" title="decompresses given string Decompresses a given string. " alt="" coords="980,559,1119,586"/>
+<area shape="rect" id="node30" href="$classMap.html#a1197ab65e40dd20b891ba165471e3163" title="Map::Map" alt="" coords="1007,610,1091,637"/>
+</map>

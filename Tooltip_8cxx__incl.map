@@ -1,0 +1,13 @@
+<map id="src/engine/ui/widgets/Tooltip.cxx" name="src/engine/ui/widgets/Tooltip.cxx">
+<area shape="rect" id="node2" href="$Tooltip_8hxx.html" title="Tooltip.hxx" alt="" coords="608,95,696,121"/>
+<area shape="rect" id="node3" href="$UIElement_8hxx.html" title="../basics/UIElement.hxx" alt="" coords="529,244,700,271"/>
+<area shape="rect" id="node21" href="$Text_8hxx.html" title="Text.hxx" alt="" coords="541,169,614,196"/>
+<area shape="rect" id="node22" href="$Timer_8hxx.html" title="../../basics/Timer.hxx" alt="" coords="1415,244,1566,271"/>
+<area shape="rect" id="node5" href="$mapEdit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="94,468,263,495"/>
+<area shape="rect" id="node6" href="$ResourcesManager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="452,319,644,345"/>
+<area shape="rect" id="node14" href="$WindowManager_8hxx.html" title="../../WindowManager.hxx" alt="" coords="774,319,949,345"/>
+<area shape="rect" id="node16" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="1114,319,1267,345"/>
+<area shape="rect" id="node10" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="469,393,593,420"/>
+<area shape="rect" id="node11" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="584,468,683,495"/>
+<area shape="rect" id="node13" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="707,468,815,495"/>
+</map>

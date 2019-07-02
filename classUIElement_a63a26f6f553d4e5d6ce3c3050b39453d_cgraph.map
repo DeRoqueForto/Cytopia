@@ -1,0 +1,4 @@
+<map id="UIElement::getUiElementRect" name="UIElement::getUiElementRect">
+<area shape="rect" id="node2" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="311,5,490,32"/>
+<area shape="rect" id="node3" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="264,56,537,83"/>
+</map>

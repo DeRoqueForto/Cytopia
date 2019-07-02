@@ -1,0 +1,7 @@
+<map id="ComboBox::checkBoundaries" name="ComboBox::checkBoundaries">
+<area shape="rect" id="node2" href="$classComboBox.html#a59b31b2bb95999b152327b54f5c7cb9a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="263,5,540,32"/>
+<area shape="rect" id="node3" href="$classComboBox.html#a117f2c533682ff861d3d713123260408" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="310,56,493,83"/>
+<area shape="rect" id="node4" href="$classComboBox.html#af0d53d01cb6d97f6dec54647721d125e" title="ComboBox::onMouseButtonUp" alt="" coords="292,107,511,133"/>
+<area shape="rect" id="node5" href="$classComboBox.html#a132276aba4ff900343458e81f318fd74" title="ComboBox::onMouseButtonDown" alt="" coords="283,157,519,184"/>
+<area shape="rect" id="node6" href="$classComboBox.html#a9e34bb39454d682c02e434bcc0aa99a4" title="ComboBox::onMouseMove" alt="" coords="305,208,497,235"/>
+</map>

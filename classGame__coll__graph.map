@@ -1,0 +1,4 @@
+<map id="Game" name="Game">
+<area shape="rect" id="node2" href="$structTupleType.html" title="{TupleType\&lt; GameService\l::Types \&gt;\n||}" alt="" coords="5,145,188,237"/>
+<area shape="rect" id="node3" href="$structTupleType.html" title="TupleType::type returns std::tuple&lt;All fields inside the TypeList&gt; " alt="" coords="29,5,164,83"/>
+</map>

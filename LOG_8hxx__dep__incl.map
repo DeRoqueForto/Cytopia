@@ -1,0 +1,22 @@
+<map id="src/engine/basics/LOG.hxx" name="src/engine/basics/LOG.hxx">
+<area shape="rect" id="node2" href="$Music_8cxx.html" title="src/engine/audio/Music.cxx" alt="" coords="5,87,197,114"/>
+<area shape="rect" id="node3" href="$SoundEffect_8cxx.html" title="src/engine/audio/SoundEffect.cxx" alt="" coords="222,87,455,114"/>
+<area shape="rect" id="node4" href="$Settings_8cxx.html" title="src/engine/basics/Settings.cxx" alt="" coords="479,87,694,114"/>
+<area shape="rect" id="node5" href="$Timer_8cxx.html" title="src/engine/basics/Timer.cxx" alt="" coords="718,87,914,114"/>
+<area shape="rect" id="node6" href="$EventManager_8cxx.html" title="src/engine/EventManager.cxx" alt="" coords="939,87,1147,114"/>
+<area shape="rect" id="node7" href="$MapNode_8cxx.html" title="src/engine/GameObjects\l/MapNode.cxx" alt="" coords="1171,80,1349,121"/>
+<area shape="rect" id="node8" href="$TerrainGenerator_8cxx.html" title="src/engine/map/TerrainGenerator.cxx" alt="" coords="1373,87,1629,114"/>
+<area shape="rect" id="node9" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="1653,87,1797,114"/>
+<area shape="rect" id="node10" href="$ResourcesManager_8cxx.html" title="src/engine/ResourcesManager.cxx" alt="" coords="1821,87,2059,114"/>
+<area shape="rect" id="node11" href="$Sprite_8cxx.html" title="src/engine/Sprite.cxx" alt="" coords="2083,87,2237,114"/>
+<area shape="rect" id="node12" href="$TileManager_8cxx.html" title="src/engine/TileManager.cxx" alt="" coords="2262,87,2455,114"/>
+<area shape="rect" id="node13" href="$Layout_8cxx.html" title="src/engine/ui/basics\l/Layout.cxx" alt="" coords="2480,80,2627,121"/>
+<area shape="rect" id="node14" href="$UIElement_8cxx.html" title="src/engine/ui/basics\l/UIElement.cxx" alt="" coords="2651,80,2797,121"/>
+<area shape="rect" id="node15" href="$MenuGroupBuild_8cxx.html" title="src/engine/ui/menuGroups\l/MenuGroupBuild.cxx" alt="" coords="2822,80,3013,121"/>
+<area shape="rect" id="node16" href="$Button_8cxx.html" title="src/engine/ui/widgets\l/Button.cxx" alt="" coords="3037,80,3192,121"/>
+<area shape="rect" id="node17" href="$Combobox_8cxx.html" title="src/engine/ui/widgets\l/Combobox.cxx" alt="" coords="3216,80,3371,121"/>
+<area shape="rect" id="node18" href="$Text_8cxx.html" title="src/engine/ui/widgets\l/Text.cxx" alt="" coords="3395,80,3549,121"/>
+<area shape="rect" id="node19" href="$UIManager_8cxx.html" title="src/engine/UIManager.cxx" alt="" coords="3574,87,3759,114"/>
+<area shape="rect" id="node20" href="$WindowManager_8cxx.html" title="src/engine/WindowManager.cxx" alt="" coords="3784,87,4003,114"/>
+<area shape="rect" id="node21" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="4027,87,4136,114"/>
+</map>

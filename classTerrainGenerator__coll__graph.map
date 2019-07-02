@@ -1,0 +1,3 @@
+<map id="TerrainGenerator" name="TerrainGenerator">
+<area shape="rect" id="node2" href="$structTerrainSettings.html" title="{TerrainSettings\n|+ mapSize\l+ seed\l+ seaLevel\l+ treeDensity\l+ mountainAmplitude\l+ waterAmount\l+ coasts\l+ rivers\l+ biomes\l+ advanced\l|}" alt="" coords="29,5,192,215"/>
+</map>

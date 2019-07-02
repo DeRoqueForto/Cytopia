@@ -1,0 +1,11 @@
+<map id="src/engine/common/JsonSerialization.hxx" name="src/engine/common/JsonSerialization.hxx">
+<area shape="rect" id="node3" href="$point_8hxx.html" title="point.hxx" alt="" coords="288,304,368,331"/>
+<area shape="rect" id="node4" href="$MapNode_8hxx.html" title="GameObjects/MapNode.hxx" alt="" coords="595,155,795,181"/>
+<area shape="rect" id="node17" href="$TerrainGenerator_8hxx.html" title="TerrainGenerator.hxx" alt="" coords="692,80,847,107"/>
+<area shape="rect" id="node19" href="$Settings_8hxx.html" title="Settings.hxx" alt="" coords="159,229,260,256"/>
+<area shape="rect" id="node10" href="$Sprite_8hxx.html" title="../Sprite.hxx" alt="" coords="863,229,961,256"/>
+<area shape="rect" id="node11" href="$enums_8hxx.html" title="common/enums.hxx" alt="" coords="863,304,1017,331"/>
+<area shape="rect" id="node13" href="$TileManager_8hxx.html" title="../TileManager.hxx" alt="" coords="393,229,529,256"/>
+<area shape="rect" id="node15" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="591,304,689,331"/>
+<area shape="rect" id="node16" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="155,304,263,331"/>
+</map>

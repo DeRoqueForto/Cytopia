@@ -1,0 +1,4 @@
+<map id="EventManager" name="EventManager">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; EventManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="5,175,209,281"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="48,5,167,112"/>
+</map>

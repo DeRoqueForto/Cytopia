@@ -1,0 +1,6 @@
+<map id="Button::onMouseEnter" name="Button::onMouseEnter">
+<area shape="rect" id="node2" href="$classUIElement.html#a98725ac250168ebb2fa676dd481ff495" title="Get the button state Get the current mouse button pressed state. " alt="" coords="232,5,427,32"/>
+<area shape="rect" id="node3" href="$classUIElement.html#ade4162d6216022e143c769369b64add7" title="Set the button state Sets the mouse button pressed state. " alt="" coords="219,56,440,83"/>
+<area shape="rect" id="node4" href="$classUIElement.html#afdf67550d4140097c7a328d4b22fc1fe" title="UIElement::changeTexture" alt="" coords="503,27,692,53"/>
+<area shape="rect" id="node5" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="488,78,707,119"/>
+</map>

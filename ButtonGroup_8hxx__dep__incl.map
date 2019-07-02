@@ -1,0 +1,13 @@
+<map id="src/engine/ui/basics/ButtonGroup.hxx" name="src/engine/ui/basics/ButtonGroup.hxx">
+<area shape="rect" id="node2" href="$UIManager_8hxx.html" title="src/engine/UIManager.hxx" alt="" coords="614,102,801,129"/>
+<area shape="rect" id="node7" href="$ButtonGroup_8cxx.html" title="src/engine/ui/basics\l/ButtonGroup.cxx" alt="" coords="921,184,1067,225"/>
+<area shape="rect" id="node10" href="$IMenuGroup_8hxx.html" title="src/engine/ui/menuGroups\l/IMenuGroup.hxx" alt="" coords="1061,95,1252,136"/>
+<area shape="rect" id="node3" href="$EventManager_8hxx.html" title="src/engine/EventManager.hxx" alt="" coords="235,191,444,218"/>
+<area shape="rect" id="node6" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="458,281,567,307"/>
+<area shape="rect" id="node8" href="$Layout_8cxx.html" title="src/engine/ui/basics\l/Layout.cxx" alt="" coords="539,184,686,225"/>
+<area shape="rect" id="node9" href="$UIManager_8cxx.html" title="src/engine/UIManager.cxx" alt="" coords="711,191,896,218"/>
+<area shape="rect" id="node4" href="$Timer_8cxx.html" title="src/engine/basics/Timer.cxx" alt="" coords="5,281,201,307"/>
+<area shape="rect" id="node5" href="$EventManager_8cxx.html" title="src/engine/EventManager.cxx" alt="" coords="226,281,434,307"/>
+<area shape="rect" id="node11" href="$MenuGroupBuild_8hxx.html" title="src/engine/ui/menuGroups\l/MenuGroupBuild.hxx" alt="" coords="1092,184,1283,225"/>
+<area shape="rect" id="node12" href="$MenuGroupBuild_8cxx.html" title="src/engine/ui/menuGroups\l/MenuGroupBuild.cxx" alt="" coords="1092,273,1283,315"/>
+</map>

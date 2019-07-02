@@ -1,0 +1,11 @@
+<map id="utils::strings::endsWith" name="utils::strings::endsWith">
+<area shape="rect" id="node2" href="$namespaceutils.html#a36536812767e08111caf7ad382071e14" title="Helper function for Reverse template because c++11 does not support template deduction. " alt="" coords="256,5,409,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="509,56,715,83"/>
+<area shape="rect" id="node8" href="$classUIManager.html#af885d42286536573cd418ed008abfc07" title="UIManager::setBuildMenuLayout" alt="" coords="219,107,447,133"/>
+<area shape="rect" id="node4" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="1012,107,1131,133"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="Game::run" alt="" coords="1179,107,1269,133"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1317,107,1440,133"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1488,107,1543,133"/>
+<area shape="rect" id="node9" href="$classUIManager.html#a3ccb2fc669262f18ebdcdf3d5c43a3e8" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="495,161,729,188"/>
+<area shape="rect" id="node10" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="777,158,964,199"/>
+</map>

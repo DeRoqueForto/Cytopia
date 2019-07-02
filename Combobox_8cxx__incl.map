@@ -1,0 +1,14 @@
+<map id="src/engine/ui/widgets/Combobox.cxx" name="src/engine/ui/widgets/Combobox.cxx">
+<area shape="rect" id="node2" href="$Combobox_8hxx.html" title="Combobox.hxx" alt="" coords="419,95,537,121"/>
+<area shape="rect" id="node23" href="$LOG_8hxx.html" title="../../basics/LOG.hxx" alt="" coords="1221,393,1364,420"/>
+<area shape="rect" id="node4" href="$UIElement_8hxx.html" title="../basics/UIElement.hxx" alt="" coords="411,319,582,345"/>
+<area shape="rect" id="node21" href="$TextField_8hxx.html" title="TextField.hxx" alt="" coords="383,169,485,196"/>
+<area shape="rect" id="node6" href="$mapEdit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="412,393,581,420"/>
+<area shape="rect" id="node7" href="$ResourcesManager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="805,393,997,420"/>
+<area shape="rect" id="node15" href="$WindowManager_8hxx.html" title="../../WindowManager.hxx" alt="" coords="605,393,780,420"/>
+<area shape="rect" id="node17" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="235,393,388,420"/>
+<area shape="rect" id="node11" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="804,468,928,495"/>
+<area shape="rect" id="node12" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="967,543,1066,569"/>
+<area shape="rect" id="node14" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="589,543,697,569"/>
+<area shape="rect" id="node22" href="$Text_8hxx.html" title="Text.hxx" alt="" coords="360,244,433,271"/>
+</map>

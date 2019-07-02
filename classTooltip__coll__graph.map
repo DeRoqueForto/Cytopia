@@ -1,0 +1,11 @@
+<map id="Tooltip" name="Tooltip">
+<area shape="rect" id="node2" href="$classText.html" title="{Text\n|&#45; m_fontSize\l|+ Text()\l+ ~Text()\l+ draw()\l+ setText()\l+ setFontSize()\l+ getFontSize()\l&#45; createTextTexture()\l}" alt="" coords="5,1200,159,1365"/>
+<area shape="rect" id="node3" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="83,620,286,1020"/>
+<area shape="rect" id="node4" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ elementID\l+ text\l+ tooltipText\l+ actionID\l+ actionParameter\l+ textureID\l+ buildMenuID\l+ layoutGroupName\l+ isToggleButton\l|}" alt="" coords="183,1185,363,1380"/>
+<area shape="rect" id="node5" href="$classTimer.html" title="{Timer\n|&#45; m_loopTimer\l&#45; m_timeOut\l&#45; m_isActive\l&#45; m_timeUntilTimeOut\l&#45; m_timeSinceLastTimeOut\l&#45; m_elapsedTime\l&#45; m_startTime\l&#45; m_endTime\l&#45; m_lastTimeOutTime\l|+ Timer()\l+ ~Timer()\l+ getElapsedTime()\l+ getElapsedTimeSinceLastTimeOut()\l+ start()\l+ stop()\l+ pause()\l+ resume()\l+ isActive()\l+ isTimedOut()\l+ setTimer()\l+ registerCallbackFunction()\l+ loopTimer()\l+ checkTimeout()\l&#45; timeOut()\l}" alt="" coords="387,1083,652,1483"/>
+<area shape="rect" id="node6" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void()\&gt;\n||+ Signal()\l}" alt="" coords="434,781,605,859"/>
+<area shape="rect" id="node7" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(), Lib::CollectorDefault\l\&lt; typename std::function\&lt; void\l() \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="318,320,545,441"/>
+<area shape="rect" id="node8" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="ProtoSignal is the template implementation for callback list. " alt="" coords="435,5,625,97"/>
+<area shape="rect" id="node10" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; SignalSignature, Collector \&gt;\n||}" alt="" coords="519,204,736,296"/>
+<area shape="rect" id="node9" href="$structSignal_1_1Signal.html" title="Signal is a template type providing an interface for arbitrary callback lists. A signal type needs to..." alt="" coords="505,465,733,557"/>
+</map>

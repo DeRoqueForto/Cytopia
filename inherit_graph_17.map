@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIMenuGroup.html" title="Interface Class for Menu Groups Menu Groups can hold UiElements and format them in a special way..." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$classMenuGroupBuild.html" title="MenuGroup for the Build Menu This Menugroup holds all buttons for the BuildMenu Buttons from UiLayout..." alt="" coords="152,5,279,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ResourcesManager::loadUITexture" name="ResourcesManager::loadUITexture">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="531,5,681,47"/>
+<area shape="rect" id="node3" href="$classResourcesManager.html#ad7712ca96233a151d8bc22cd2ba17d01" title="ResourcesManager::create\lTextureFromSurface" alt="" coords="291,35,483,76"/>
+<area shape="rect" id="node4" href="$classResourcesManager.html#a54721d26f52c4887b735d2cdaf60b078" title="ResourcesManager::create\lSurfaceFromFile" alt="" coords="291,100,483,141"/>
+</map>
